@@ -16,3 +16,13 @@ The VBA code can be found in the "Stock Data Script" file. This script was devel
 * AutoFit Reference Source: http://excelchamps.com/vba/autofit/
 * VBA Percentage Format Reference Source: http://statology.org/vba-percentage-format/
 * VBA ColorIndex Reference Source: https://analysistabs.com/excel-vba/colorindex/
+
+## Screenshots
+2018:
+![2018 Screenshot](https://github.com/sorianor131/VBA-challenge/assets/137940089/c3725466-9d27-40c4-8ee4-5c26e8b84856)
+
+2019:
+![2019 Screenshot](https://github.com/sorianor131/VBA-challenge/assets/137940089/c8638545-02ee-4d3b-bcce-3592abec5377)
+
+2020:
+![2020 Screenshot](https://github.com/sorianor131/VBA-challenge/assets/137940089/9aa43e78-3342-4aec-b454-f95c6dcc76a7)
